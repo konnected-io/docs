@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+header h1 {
+  font-size: 60px;
+}
+
+ol {
+  padding-left: 40px;
+}
+
+ol li {
+  margin-bottom: 20px;
+}
+
+.img-callout {
+  width: 65%;
+  padding: 40px;
+  margin: auto 10%;
+  border-width: 1px;
+  border-style: dashed;
+  border-color: #999999;
+  text-align: center;
+  border-radius: 8px;
+}
