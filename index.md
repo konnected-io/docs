@@ -20,6 +20,6 @@ title: Konnected
 ## Wiring
 
 1. [Connecting Jumper Wires to In-wall Wiring](/alarm-panel/wiring/connecting-jumpers)
-1. [Wiring Contact (Door & Window) Sensors](/alarm-panel/wiring/contact-sensors)
+1. [Wiring Door & Window Sensors](/alarm-panel/wiring/contact-sensors)
 1. [Wiring Motion Sensors](/alarm-panel/wiring/motion-sensors)
 1. [Power](/alarm-panel/wiring/power)
