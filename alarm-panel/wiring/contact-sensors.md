@@ -1,5 +1,5 @@
 ---
-title: Wiring Contact (Door & Window) Sensors
+title: Wiring Contact Sensors (Door & Window Sensors) 
 layout: default
 ---
 
@@ -40,3 +40,8 @@ The following input pins on the Konnected device can be used for contact sensors
 
 Any of the pins labeled `GND` on the _right_ side of the Konnected device may be used for the ground
 connection. Do not use the `GND` pins on the left side of the board for contact sensors.
+
+### Sensors with Configurable Contacts
+ 
+Most alarm system door and window sensors are hard-wired to be _normally open (NO)_. Some contact switches have both _NO_
+and _Normally Closed (NC)_ contacts. If your hardware has this option, use the _NO_ contact.
