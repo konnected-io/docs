@@ -35,6 +35,7 @@ The following input pins on the Konnected device can be used for contact sensors
 * `D5`
 * `D6`
 * `D7`
+* `RX`
 
 ### Ground (`GND`) Pins
 

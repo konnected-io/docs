@@ -17,9 +17,4 @@ title: Konnected
   with easily available components and the [Konnected Alarm Panel open-source firmware](https://github.com/konnected-io/AlarmPanel).
   See our [buying guide][/buying-guide] for complete information on what to buy.  
 
-## Wiring
-
-1. [Connecting Jumper Wires to In-wall Wiring](/alarm-panel/wiring/connecting-jumpers)
-1. [Wiring Door & Window Sensors](/alarm-panel/wiring/contact-sensors)
-1. [Wiring Motion Sensors](/alarm-panel/wiring/motion-sensors)
-1. [Power](/alarm-panel/wiring/power)
+### [Konnected Security documentation](/alarm-panel)
