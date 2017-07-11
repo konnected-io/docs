@@ -15,6 +15,6 @@ title: Konnected
  Konnected devices are based on open-source hardware and software. We [sell DIY kits](https://store.konnected.io) pre-loaded
   with Konnected software. Just follow the wiring instructions on this website. You can also build your own Konnected alarm panel
   with easily available components and the [Konnected Alarm Panel open-source firmware](https://github.com/konnected-io/AlarmPanel).
-  See our [buying guide][/buying-guide] for complete information on what to buy.  
+  See our [buying guide](/security-alarm-system/buying-guide) for complete information on what to buy.  
 
 ### [Konnected Security documentation](/security-alarm-system)

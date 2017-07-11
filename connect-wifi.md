@@ -3,7 +3,7 @@ layout: default
 title: Connect to WiFi
 ---
 
-## Connect the device to Your WiFi Network
+## Connect the device to WiFi
 Before wiring your device into your alarm system wires, we recommend you set up WiFi and establish the network 
 connection with SmartThings.
 

@@ -17,8 +17,9 @@ with Konnected Security, an inexpensive WiFi capable device with our open-source
 1. A [SmartThings Hub](https://www.amazon.com/Samsung-SmartThings-Hub-2nd-Generation/dp/B010NZV0GE/ref=as_li_ss_tl?&linkCode=ll1&tag=konnected-io-20&linkId=cf246167345ebc042f799b5d0d9383ed)
 1. A stable WiFi internet connection
  
-[Support this project by buying one of our DIY Kits](https://store.konnected.io/products/wired-alarm-system-complete-kit)
-The kits contain all the materials you need, and come pre-loaded with Konnected Security software. Just plug in and begin.
+[Support this project by buying one of our DIY Kits!](https://store.konnected.io/products/wired-alarm-system-complete-kit)
+The kits contain all the materials you need, and come pre-loaded with Konnected firmware and software. Just plug in and
+configure with your smartphone.
 
 ### Insert the NodeMCU board into the base
 Carefully line up the pins on the NodeMCU board with the base and press it in evenly until seated in the base.

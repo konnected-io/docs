@@ -6,17 +6,42 @@
 header {
   padding-top: 20px;
   padding-bottom: 20px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: #2C82C9;
   background-image: none;
+  height: 50px;
+}
+
+h1, h2, h3 {
+  font-family: 'Comfortaa', sans-serif !important;
+  letter-spacing: 0.1em;
+}
+
+header.header-secondary {
+  background-color: #6C8784;
+  background-image: none;
+  height: 20px;
+}
+
+header h1 {
+  display: inline-block;
+  font-size: 50px;
+  line-height: 50px;
+  width: 300px;
+}
+
+header h2 {
+  display: inline-block;
+  color: white;
+  width: 60%;
+  font-size: 24px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
 }
 
 a {
   color: #2C82C9;
-}
-
-header h1 {
-  font-size: 60px;
 }
 
 ol {
