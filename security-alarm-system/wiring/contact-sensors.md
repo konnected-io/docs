@@ -9,7 +9,7 @@ the contact is broken.
 
 ### Identify Wire Pairs for each Sensor
 1. Contact sensors have two wires coming out of each sensor. Identify the pair of wires coming out
-of your wall for each sensor and [connect them to jumper wires](/alarm-panel/wiring/connecting-jumpers)
+of your wall for each sensor and [connect them to jumper wires](/security-alarm-system/wiring/connecting-jumpers)
 for easy connecting.
 1. If you're removing sensors from an old existing alarm panel, they may be wired with _end-of-line resistors_. Remove
 the resistors and discard or save for a different project.

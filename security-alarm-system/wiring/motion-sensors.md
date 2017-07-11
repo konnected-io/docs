@@ -31,7 +31,7 @@ from your existing alarm and remove and discard the resistors (or save them for 
 ![](/assets/images/motion-sensor-wiring-with-external-power-bb.png){:class="img-callout"}
 
 If your motion sensors are already working and wired to an existing alarm system, you can leave the power wires (usually
-**red** and **black**) connected to the existing power. In this case, simply [connect jumper wires](/alarm-panel/wiring/connecting-jumpers)
+**red** and **black**) connected to the existing power. In this case, simply [connect jumper wires](/security-alarm-system/wiring/connecting-jumpers)
  to the signal pair of wires. Then connect one wire to `GND` and the other to an [input pin](#input-pins) on the Konnected device. 
 
 ### Wiring Motion Sensors without External Power
@@ -41,7 +41,7 @@ If your motion sensors are already working and wired to an existing alarm system
 If your motion sensors need power, you can draw power from the Konnected device base _as long as you are powering the
 device with the correct voltage_. _Most_ motion sensors and alarm system components operate on 12V DC, so in that case,
 power the Konnected device with a 12V DC power adapter. Then you can draw power for your motion sensors from the pins
-labeled `U1` and `GND` on the bottom left of the device base. See the [power](/alarm-panel/wiring/power) page for more
+labeled `U1` and `GND` on the bottom left of the device base. See the [power](/security-alarm-system/wiring/power) page for more
 information on powering the device.
 
 Always verify the correct voltage before connecting electronics!

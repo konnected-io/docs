@@ -17,4 +17,4 @@ title: Konnected
   with easily available components and the [Konnected Alarm Panel open-source firmware](https://github.com/konnected-io/AlarmPanel).
   See our [buying guide][/buying-guide] for complete information on what to buy.  
 
-### [Konnected Security documentation](/alarm-panel)
+### [Konnected Security documentation](/security-alarm-system)
