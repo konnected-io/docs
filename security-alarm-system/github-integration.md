@@ -3,7 +3,7 @@ layout: default
 title: Enable SmartThings GitHub Integration
 ---
 
-# Enable SmartThings Github Integration
+# Enable Github Integration
 
 [GitHub](https://github.com) is a source code repository that allows developers to share their code. The easiest way to
 install the SmartApp and Device Handlers for Konnected Security is using the SmartThings GitHub integration. For this step,
