@@ -46,3 +46,5 @@ connection. Do not use the `GND` pins on the left side of the board for contact 
  
 Most alarm system door and window sensors are hard-wired to be _normally open (NO)_. Some contact switches have both _NO_
 and _Normally Closed (NC)_ contacts. If your hardware has this option, use the _NO_ contact.
+
+##### **Next Step:** [Wire Motion Sensors](/security-alarm-system/wiring/motion-sensors)

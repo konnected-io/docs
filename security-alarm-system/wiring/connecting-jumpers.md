@@ -19,3 +19,5 @@ strippers, you can use a pair of scissors or razor to gently score the wire insu
 
 Holding the copper wire tightly in your fingers, push it firmly into the female end of the jumper cable. Be careful to
 not let the copper wire bend or break as you push it in. The wire should be snug in the jumper cable connector.
+
+##### **Next Step:** [Wire Door and Window Sensors](/security-alarm-system/wiring/contact-sensors)

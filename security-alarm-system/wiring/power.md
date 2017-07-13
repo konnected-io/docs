@@ -16,4 +16,6 @@ Loosen the screw terminals with a screwdriver. Using a _male-to-female_ jumper w
 terminal and tighten so it stays in contact with the metal. Repeat for the second screw terminal.
 
 Now connect the female end of the jumper wire from the `+` terminal to one of the four pins labeled `U1` on the Konnected device base.
-Connect the wire from the `-` or `G` terminal to one of the `GND` on the bottom left of the Konnected base.  
+Connect the wire from the `-` or `G` terminal to one of the `GND` on the bottom left of the Konnected base.
+  
+##### **Next Step:** 

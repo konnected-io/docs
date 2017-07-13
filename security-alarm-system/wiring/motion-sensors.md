@@ -68,3 +68,5 @@ connection. Do not use the `GND` pins on the left side of the board for motion s
  
 Most alarm system motion sensors are hard-wired to be _normally closed (NC)_. Some motion sensors have both _NC_
 and _Normally Open (NO)_ contacts. If your hardware has this option, use the _NC_ contact.
+
+##### **Next Step:** [Power](/security-alarm-system/wiring/power)
