@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Connect to WiFi
+amazon_ads: true
 ---
 
-# Connect the device to WiFi
+# Connect to WiFi
 Before wiring and mounting your device, you first need to set up WiFi and establish the network connection to 
 SmartThings.
 

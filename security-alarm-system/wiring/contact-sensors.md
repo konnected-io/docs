@@ -1,6 +1,7 @@
 ---
 title: Wiring Contact Sensors (Door & Window Sensors) 
 layout: default
+amazon_ads: true
 ---
 
 **Door and Window Sensors** are referred to as Contact Sensors because they activate
