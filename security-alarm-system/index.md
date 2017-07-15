@@ -3,6 +3,10 @@ layout: default
 title: Konnected Security alarm systems installation guide
 ---
 
+# Konnected Security Complete Documentation
+
+![](/assets/images/konnected-alarm-panel.jpg)
+
 ## Installation
 
 1. [Getting Started](/security-alarm-system/getting-started)

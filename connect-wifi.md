@@ -28,5 +28,5 @@ Until WiFi is configured, the device will broadcast its own WiFi network named l
  will connect to your home WiFi network and automatically reboot. _Note:_ The wireless network must be on the same internal
  network as your SmartThings hub.
  
-**Next Step:** [Enable SmartThings GithHub Integration](/security-alarm-system/github-integration) 
+##### **Next Step:** [Enable SmartThings GithHub Integration](/security-alarm-system/github-integration) 
  
