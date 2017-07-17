@@ -34,4 +34,4 @@ button to be redirected back to SmartThings.
     
 1. Click _Save_
 
-##### **Next Step:** [Install the SmartApp](/security-alarm-system/install-smartapp)
+##### **Next Step:** [Install the SmartApp](/security-alarm-system/installation/smartapp)

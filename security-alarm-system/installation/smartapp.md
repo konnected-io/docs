@@ -44,4 +44,4 @@ _Publish_ checkbox and then click _Execute Update_.
 1. Copy and paste the SmartApp source code into the code editor and click _Create_.
 1. Follow the steps above to [enable OAuth](#enable-oauth).
 
-##### **Next Step:** [Install the Device Handlers](/security-alarm-system/install-device-handlers)
+##### **Next Step:** [Install the Device Handlers](/security-alarm-system/installation/device-handlers)

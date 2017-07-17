@@ -29,4 +29,4 @@ If you've purchased one of our kits, the software is pre-loaded. Continue to **[
 If your NodeMCU was not preloaded with our firmware, follow the instructions for 
 [flashing firmware](/security-alarm-system/flashing-firmware) before continuing. 
  
-##### **Next Step:** [Connect to WiFi](/connect-wifi)
+##### **Next Step:** [Connect to WiFi](/security-alarm-system/installation/connect-wifi)
