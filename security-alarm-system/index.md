@@ -15,6 +15,12 @@ title: Konnected Security alarm systems installation guide
 1. [Install the SmartApp](/security-alarm-system/installation/smartapp)
 1. [Install Device Handlers](/security-alarm-system/installation/device-handlers)
 
+## Setup
+
+1. [Add the Konnected Device to SmartThings](/security-alarm-system/setup/discovery)
+1. [Assign Device Pins to Things](/security-alarm-system/setup/assign-pins)
+1. [Set up Smart Home Monitor](/security-alarm-system/smart-home-monitor)
+
 ## Wiring
 
 1. [Connecting Jumper Wires to In-wall Wiring](/security-alarm-system/wiring/connecting-jumpers)
@@ -23,7 +29,3 @@ title: Konnected Security alarm systems installation guide
 1. [Wiring a Siren, Strobe or Alarm](/alram-panel/wiring/siren)
 1. [Power](/security-alarm-system/wiring/power)
 
-## Setup
-1. [Add the Konnected Device to SmartThings](/security-alarm-system/setup/discovery)
-1. [Assign Device Pins to Things](/security-alarm-system/setup/assign-pins)
-1. [Set up Smart Home Monitor](/security-alarm-system/smart-home-monitor)

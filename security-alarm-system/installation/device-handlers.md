@@ -43,4 +43,4 @@ Handler code into SmartThings IDE. Both methods are detailed below:
 1. Repeat the steps above for each Device Handler that you need to install.
 
 
-##### **Next Step:** [Wiring](/security-alarm-system/wiring)
+##### **Next Step:** [Device Discovery](/security-alarm-system/setup/discovery)
