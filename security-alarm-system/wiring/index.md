@@ -1,0 +1,4 @@
+---
+title: Wiring
+layout: default
+---

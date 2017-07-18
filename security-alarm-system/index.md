@@ -9,12 +9,11 @@ title: Konnected Security alarm systems installation guide
 
 ## Installation
 
-1. [Getting Started](/security-alarm-system/getting-started)
+1. [Getting Started](/security-alarm-system/installation/getting-started)
 1. [Connect to WiFi](/security-alarm-system/installation/connect-wifi)
 1. [Enable SmartThings GitHub Integration](/security-alarm-system/installation/github-integration)
 1. [Install the SmartApp](/security-alarm-system/installation/smartapp)
 1. [Install Device Handlers](/security-alarm-system/installation/device-handlers)
-1. [Add the Konnected Device in SmartThings](/security-alarm-system/installation/discovery)
 
 ## Wiring
 
@@ -25,5 +24,6 @@ title: Konnected Security alarm systems installation guide
 1. [Power](/security-alarm-system/wiring/power)
 
 ## Setup
-1. [Assign Device Pins to Things](/security-alarm-system/assign-pins)
+1. [Add the Konnected Device to SmartThings](/security-alarm-system/setup/discovery)
+1. [Assign Device Pins to Things](/security-alarm-system/setup/assign-pins)
 1. [Set up Smart Home Monitor](/security-alarm-system/smart-home-monitor)
