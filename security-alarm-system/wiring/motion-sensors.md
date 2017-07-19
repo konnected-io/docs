@@ -53,13 +53,16 @@ Once you've connected the motion sensor power wires, connect the signal wires to
 
 ### Input Pins
 
-The following input pins on the Konnected device can be used for contact sensors:
+The following input pins on the Konnected device can be used for motion sensors:
 * `D1`
 * `D2`
 * `D5`
 * `D6`
 * `D7`
 * `RX`
+
+_Note:_ The `RX` pin interferes with the serial USB connection. Advanced users who are connecting the device to their 
+  computer using a USB cable may encounter problems using pin `RX`.
 
 ### Ground (`GND`) Pins
 

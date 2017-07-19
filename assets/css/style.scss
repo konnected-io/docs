@@ -58,6 +58,16 @@ ol li {
   margin-bottom: 20px;
 }
 
+th {
+  font-weight: bold;
+  border: 1px solid #ebebeb;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5em 1em;
+}
+
 aside#sidebar .kit-promo {
   font-size: 16px;
   text-align: center;
