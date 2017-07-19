@@ -1,6 +1,8 @@
 ---
 title: Powering the Konnected Alarm Panel
 layout: default
+amazon_ads: true
+amazon_assoc_asins: 
 ---
 
 The Konnected device can accept 6V to 24V DC in the base, or 5V DC via USB cable directly to the logic board. If you're
