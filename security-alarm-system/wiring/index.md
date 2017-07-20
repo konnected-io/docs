@@ -3,6 +3,7 @@ title: Wiring
 layout: default
 amazon_ads: true
 amazon_assoc_asins: B00APD16D2,B01N9QW620,B01N68Y73M,B005IKCLPO,B00079LN1Y,B005HQ4T6I,B01GFHXXI2
+comments: true
 ---
 
 # Wiring

@@ -1,6 +1,7 @@
 ---
 title: Connecting Jumper Wires to In-wall Wiring
 layout: default
+comments: true
 ---
 
 **Jumper Wires** make it easy to create tight connections between your in-wall wiring and the Konnected device. Most 

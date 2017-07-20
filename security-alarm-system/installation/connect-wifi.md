@@ -2,6 +2,7 @@
 layout: default
 title: Connect to WiFi
 amazon_ads: true
+comments: true
 ---
 
 # Connect to WiFi

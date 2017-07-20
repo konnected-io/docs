@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Install the Konnected Device Handlers
+comments: true
 ---
 
 # Install the Device Handlers

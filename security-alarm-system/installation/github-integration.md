@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Enable SmartThings GitHub Integration
+comments: true
 ---
 
 # Enable Github Integration

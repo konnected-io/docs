@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Install the SmartApp
+comments: true
 ---
 
 # Install the SmartApp

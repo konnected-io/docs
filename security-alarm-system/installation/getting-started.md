@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Konnected Security alarm system installation guide
+comments: true
 ---
 
 ## Getting Started with Konnected Security

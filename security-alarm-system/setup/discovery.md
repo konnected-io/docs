@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Konnected Device Discovery
+comments: true
 ---
 
 # Device Discovery
