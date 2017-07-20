@@ -15,8 +15,9 @@ SmartThings.
   
     ![](/assets/images/power-plugs.jpg){:class="img-callout"}
 
-1. When the Konnected device is powered on you should see a slow blinking LED indicating that it's trying to connect to WiFi. 
-Until WiFi is configured, the device will broadcast its own WiFi network named like `konnected-security_XXXXXX` for configuration.
+1. When the Konnected device is powered on you should see a slow blinking blue LED indicating that it's trying to 
+connect to WiFi. Until WiFi is configured, the device will broadcast its own WiFi network named like 
+`konnected-security_XXXXXX` for configuration.
 
     ![](/assets/images/Screenshot_20170710-225505.png){:class="img-callout"}
 
@@ -26,8 +27,11 @@ Until WiFi is configured, the device will broadcast its own WiFi network named l
     ![](/assets/images/Screenshot_20170710-225643.png){:class="img-callout"}
 
 1. Select your wireless network from the drop-down menu and enter your WiFi password. After tapping Save, the device
- will connect to your home WiFi network and automatically reboot. _Note:_ The wireless network must be on the same internal
- network as your SmartThings hub.
+ will connect to your home WiFi network and the LED will stop blinking and be *solid blue*.
+ _Note:_ The wireless network must be on the same internal network as your SmartThings hub.
+ 
+1. Un-plug and re-plug in the device causing it to reboot. The blue LED will blink for a few seconds and then 
+**turn off**, indicating that it's connected to Wifi and ready to be added to your SmartThings network.
  
 ##### **Next Step:** [Enable SmartThings GithHub Integration](/security-alarm-system/installation/github-integration) 
  
