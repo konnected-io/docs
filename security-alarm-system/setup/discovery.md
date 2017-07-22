@@ -24,7 +24,7 @@ same internal network as the Konnected device.
 
 1. Tap _Konnected Security_
 
-1. On the welcome screen, tap _Next_
+1. On the welcome screen, tap _Next_. 
 
 1. The app will begin searching for your device on the network. The page will update after a few seconds when your
  device(s) are found.
@@ -39,3 +39,9 @@ SmartThings and tap _Done_.
 1. Now tap _Next_ to begin the device setup
 
 ##### **Next Step:** [Assign Pins and Create Devices](/security-alarm-system/setup/assign-pins)
+
+##### **Troubleshooting:** 
+
+- **Help:** SmartApp not displaying anything [link](/security-alarm-system/troubleshooting/discovery-smartapp-error) 
+
+- **Help:** SmartThings not discovering the device [link](/security-alarm-system/troubleshooting/discovery-cant-find-device) 
