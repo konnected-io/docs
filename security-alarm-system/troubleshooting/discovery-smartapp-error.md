@@ -6,7 +6,7 @@ comments: true
 
 If the SmartThings app is showing blank screen like this:
 
-![](/assets/images/Screenshot_20170722-173000.png){:class="img-callout"}
+![](/assets/images/Screenshot_20170722-173000.png)
 
 It is likely that the OAuth step wasn't done. 
 
