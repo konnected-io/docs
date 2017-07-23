@@ -97,6 +97,18 @@ aside#sidebar hr {
   border-radius: 8px;
 }
 
+.img-inline {
+  float: right;
+  display: block;
+  margin: 0 1em;
+}
+
+.img-product {
+  display: inline-block;
+  float: left;
+  margin: 0 1em;
+}
+
 .amz, #disqus_thread {
   margin-top: 50px;
 }

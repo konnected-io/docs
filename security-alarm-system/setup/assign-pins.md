@@ -35,8 +35,11 @@ watch the status update almost instantly in SmartThings!
 
 If you haven't wired the Konnected device into your actual sensors yet, you can test out the connection to SmartThings.
 Simulate a door closing on pin `D1` by taking a jumper wire and connecting pin `D1` directly to `GND` on the same side.
-Now remove it. The device in SmartThings that was set for Pin D1 should show as open now! Connect the wire again and see
-it close. Repeat to test other pins.
+You should see a **single blink** of the blue LED indicating that the device has communicated with SmartThings. Look in
+the app and the door/window should be closed.
+
+Now remove the wire. You'll see a blink again, and the sensor in SmartThings that was set for Pin D1 should show as open
+ now! Connect the wire again and see it close. Repeat to test other pins.
 
 ##### **Next Step:** [Wiring](/security-alarm-system/wiring)
 

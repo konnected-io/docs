@@ -88,3 +88,4 @@ The following pins on the Konnected device can be used for outputs:
 _Note:_ The `D8` pin, in the event of a power failure, may trigger upon reboot. This may cause the siren to sound briefly
 in the event of a power failure or reboot. We're still working on ways to mitigate this problem.
 
+##### **Next Step:** [Siren](/security-alarm-system/wiring/smoke-detectors)

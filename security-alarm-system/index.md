@@ -24,8 +24,9 @@ title: Konnected Security alarm systems installation guide
 ## Wiring
 
 1. [Connecting Jumper Wires to In-wall Wiring](/security-alarm-system/wiring/connecting-jumpers)
-1. [Wiring Door & Window Sensors](/security-alarm-system/wiring/contact-sensors)
-1. [Wiring Motion Sensors](/security-alarm-system/wiring/motion-sensors)
-1. [Wiring a Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
+1. [Door & Window Sensors](/security-alarm-system/wiring/contact-sensors)
+1. [Motion Sensors](/security-alarm-system/wiring/motion-sensors)
+1. [Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
+1. [Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)
 1. [Power](/security-alarm-system/wiring/power)
 
