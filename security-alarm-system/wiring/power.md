@@ -29,8 +29,8 @@ Below are some examples of some popular alarm panel wiring diagrams highlighted 
    wires slip out.
    
    ![](/assets/images/warning-80px.png){:class="img-product"}
-   **DO NOT CONNECT THE KONNECTED DEVICE TO AC POWER**. Do not confuse the _AUX Power Out_ on your alarm panel with the
-    screw terminals where your alarm panel _receives_ AC power. Connecting the device to AC power will damage the device
+   **DO NOT CONNECT THE KONNECTED DEVICE TO AC POWER**. Do not confuse the _AUX Power Out_ on the alarm panel with where
+    the alarm panel _receives_ AC power. Connecting the device to AC power will damage the device
     and may result in electrocution or fire!
    <br style="clear:both;"/>
 
@@ -64,6 +64,11 @@ work great. Note that when powering by USB, you cannot draw power for external d
 <br style="clear:both;"/>
 
 ### Powering Multiple Konnected Devices
+
+You can power multiple Konnected boards with one power source by powering the first board from the alarm panel or a 12V
+power adapter, then wiring power to other boards using the extra `U1` and `GND` pins as shown:
+
+![](/assets/images/powering-multiple-konnected-boards_bb.png)
 
 
   
