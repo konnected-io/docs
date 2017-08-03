@@ -23,6 +23,12 @@ Below are some examples of some popular alarm panel wiring diagrams highlighted 
 ##### Ademco
 ![](/assets/images/ademco-vista-aux-power.jpg){:class="img-callout"}
 
+
+#### Step by Step Instructions
+
+1. **Disconnect the Power** to the alarm panel before you begin. Usually this means unplugging a power adapter and unplugging
+the backup battery.
+
 1. Find the _AUX Power Output_ on your existing alarm panel. It should be two screw terminals labeled with `AUX+` or `+` 
    and `COM`, `-` or `G`. There are probably already a number of wires attached to these terminals for your various
    powered sensors and keypad. Loosen the screw terminals with a screwdriver, being careful not to let any existing 

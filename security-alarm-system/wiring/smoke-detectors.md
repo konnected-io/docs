@@ -8,9 +8,25 @@ comments: true
 
 # Smoke Detectors
 
-Connecting smoke detectors requires a _relay_ compatible with your brand of smoke detector. Once you've wired your smoke
-detector wires to the relay according to the relay instructions, connect the NC and C leads of the relay to the 
-Konnected device [input pins](#input-pins) just like any other sensor.
+Many interconnected type _wired_ smoke detectors (the kind when one alarms they all alarm) are compatible with Konnected
+if you have the right type of wiring and relay.
+
+## 2-Wire Smoke Detectors
+
+Many Honeywell / Ademco alarm systems particularly the popular VISTA-20P use 2-wire smoke alarms that are powered by 
+supervised 12V power from the alarm panel. Unfortunately these will **NOT** work with Konnected. Popular smoke detectors
+models that **DO NOT** work with Konnected are _System Sensor 2W-B, 2WT-B, COSMO-2W_ and _Interlogix 521B, 528B_.
+
+## 4-Wire Smoke Detectors
+
+Most 4-Wire Smoke Detectors can work with Konnected if your wiring is accessible and you have a relay compatible with
+your smoke detector. Many smoke detectors operate on household AC power, so a relay is necessary to signal low-voltage
+devices like alarm systems and your Konnected board. If your smoke detectors were previously wired to your alarm panel, 
+there's probably a relay already installed. If not, there are links below to relays for many popular models. 
+
+Once you've identified the smoke detector signal wires, connect the two leads of the relay to the Konnected device 
+[input pins](#input-pins) just like any other sensor. If your relay has both normally closed (NC) and normally open (NO)
+wires, uses the NC one.
 
 ### First Alert
 
