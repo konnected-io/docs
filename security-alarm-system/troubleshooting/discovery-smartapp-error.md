@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting: SmartThings App has error
+title: Troubleshooting | SmartThings App has error
 comments: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting: SmartThings can't discover the Konnected Security
+title: Troubleshooting | SmartThings can't discover the Konnected Security
 comments: true
 ---
 

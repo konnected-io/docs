@@ -30,3 +30,6 @@ title: Konnected Security alarm systems installation guide
 1. [Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)
 1. [Power](/security-alarm-system/wiring/power)
 
+## Troubleshooting
+
+1. [Viewing Debug Output from the Device](/security-alarm-system/troubleshooting/serial-debugging)
