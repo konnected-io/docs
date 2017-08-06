@@ -32,6 +32,8 @@ negative (ground) wire connected to the ground terminal of the alarm panel.
 
 Make the following connections to the relay:
 
+![](/assets/images/DSC_0109.jpg)
+
 | Relay terminal | Connect to |
 | -------------- | ---------- |
 | `VCC`          | Any `3V` pin on the Konnected board|
