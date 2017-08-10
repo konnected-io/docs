@@ -26,7 +26,7 @@ configure with your smartphone.
 Carefully line up the pins on the NodeMCU board with the base, ensuring the pin labels match. Press the board in evenly 
 until seated in the base.
 
-If you've purchased one of our kits, the software is pre-loaded. Continue to **[Connect to WiFi](/connect-wifi)**.
+If you've purchased one of our kits, the software is pre-loaded. Continue to **[Connect to WiFi](/security-alarm-system/installation/connect-wifi)**.
  
 If your NodeMCU was not preloaded with our firmware, the instructions and code for flashing firmware are in the
 [konnected-security README on GitHub](https://github.com/konnected-io/konnected-security). 
