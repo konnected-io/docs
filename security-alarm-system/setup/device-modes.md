@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Konnected Device Modes
+breadcrumb: Device Modes
 comments: true
 ---
 

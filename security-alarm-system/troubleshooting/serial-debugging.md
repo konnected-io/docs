@@ -2,6 +2,7 @@
 layout: default
 title: Troubleshooting | Serial Port Debugging
 comments: true
+breadcrumb: Serial Debugging
 ---
 
 # Serial Port Debugging

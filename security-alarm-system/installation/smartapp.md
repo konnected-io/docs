@@ -2,6 +2,7 @@
 layout: default
 title: Install the SmartApp
 comments: true
+breadcrumb: Install the SmartApp
 ---
 
 # Install the SmartApp

@@ -1,6 +1,7 @@
 ---
 title: Wiring Motion Sensors
 layout: default
+breadcrumb: Motion Sensors
 amazon_ads: true
 amazon_assoc_asins: B00TYY8LR2,B000EVYGZA,B01N19IK8F,B00YO2IZKC,B01N19IK8F,B00N831XNE,B01L5ULRUA,B0738XJZHT
 comments: true

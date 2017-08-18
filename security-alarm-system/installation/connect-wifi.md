@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Connect to WiFi
+breadcrumb: Connect to WiFi
 amazon_ads: true
 comments: true
 ---

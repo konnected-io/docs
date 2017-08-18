@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Konnected Security alarm systems installation guide
+title: Konnected Security alarm system install guide
+breadcrumb: Konnected Security alarm system install guide
 ---
 
 # Konnected Security Install Guide
@@ -20,7 +21,7 @@ title: Konnected Security alarm systems installation guide
 
 1. [Add the Konnected Device to SmartThings](/security-alarm-system/setup/discovery)
 1. [Assign Device Pins to Things](/security-alarm-system/setup/assign-pins)
-1. [Set up Smart Home Monitor](/security-alarm-system/smart-home-monitor)
+1. [Set up Smart Home Monitor](/security-alarm-system/setup/smart-home-monitor)
 
 ## Wiring
 
@@ -34,3 +35,8 @@ title: Konnected Security alarm systems installation guide
 ## Troubleshooting
 
 1. [Viewing Debug Output from the Device](/security-alarm-system/troubleshooting/serial-debugging)
+
+## Usage, Addons and Other Information
+
+1. [DIY Shopping & Buying Guide](/security-alarm-system/buying-guide)
+1. [Blue LED status indicator](/security-alarm-system/setup/device-modes)

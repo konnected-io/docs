@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Assign Pins and Create Devices
+breadcrumb: Assign Pins
 comments: true
 ---
 
-## Assign Pins
+# Assign Pins
 
 Assign each of the sensors or zones in your home to pins on the Konnected device using the app. You can do this before 
 or after you start wiring, it doesn't matter. 

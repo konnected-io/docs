@@ -1,13 +1,14 @@
 ---
 title: Connecting Jumper Wires to In-wall Wiring
 layout: default
+breadcrumb: Connecting Jumpers
 comments: true
 ---
 
 **Jumper Wires** make it easy to create tight connections between your in-wall wiring and the Konnected device. Most 
 in-wall wiring is 22 AWG solid copper wire. This type of wire fits perfectly with the jumper wires 
 included in the  [Konnected Alarm Panel DIY kit](https://store.konnected.io/products/wired-alarm-system-complete-kit) or
-[commonly available online](/buying-guide).
+[commonly available online](/security-alarm-system/buying-guide).
 
 
 ![](/assets/images/20170703_140007.jpg){:class="img-callout"}

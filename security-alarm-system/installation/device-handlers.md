@@ -2,6 +2,7 @@
 layout: default
 title: Install the Konnected Device Handlers
 comments: true
+breadcrumb: Install Device Handlers
 ---
 
 # Install the Device Handlers

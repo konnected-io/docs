@@ -77,6 +77,25 @@ aside#sidebar hr {
   margin: 4em 0;
 }
 
+.breadcrumb {
+  padding-left:0;
+  list-style: none;
+  border-radius: 4px;
+}
+.breadcrumb > li {
+  display: inline-block;
+}
+.breadcrumb > li + li:before {
+  padding: 0 5px;
+}
+
+.breadcrumb { border: 0px;  display: block;}
+.breadcrumb li {font-size: 14px;}
+.breadcrumb a {color: #2C82C9;}
+.breadcrumb a:hover {color: darken(#2C82C9, 20%);}
+.breadcrumb>.active a {color: #555555; }
+.breadcrumb>li+li:before {color:#2C82C9; content: "\003E\00a0";}
+
 .smaller {
   font-size: 0.8em;
 }

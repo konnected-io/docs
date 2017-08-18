@@ -1,6 +1,7 @@
 ---
 title: Wiring a Siren, Strobe or Alarm
 layout: default
+breadcrumb: Siren
 amazon_ads: true
 amazon_assoc_asins: B0006BCCAE,B01N5W8MA3,B010EEGYI8,B0013ABOZG,B003S1NQ2C,B01E9P0G5K
 comments: true

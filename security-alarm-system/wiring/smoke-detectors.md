@@ -1,6 +1,7 @@
 ---
 title: Smoke Detectors
 layout: default
+breadcrumb: Smoke Detectors
 amazon_ads: true
 amazon_assoc_asins: 
 comments: true
