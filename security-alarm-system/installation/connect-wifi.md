@@ -36,5 +36,5 @@ connect to WiFi. Until WiFi is configured, the device will broadcast its own WiF
 1. Un-plug and re-plug in the device causing it to reboot. The blue LED will blink for a few seconds and then 
 **turn off**, indicating that it's connected to Wifi and ready to be added to your SmartThings network.
  
-##### **Next Step:** [Enable SmartThings GithHub Integration](/security-alarm-system/installation/github-integration) 
+##### **Next Step:** [Enable SmartThings GitHub Integration](/security-alarm-system/installation/github-integration) 
  

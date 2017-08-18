@@ -38,10 +38,12 @@ SmartThings and tap _Done_.
     
 1. Now tap _Next_ to begin the device setup
 
-##### **Next Step:** [Assign Pins and Create Devices](/security-alarm-system/setup/assign-pins)
-
-##### **Troubleshooting:** 
+### **Troubleshooting:** 
 
 - **Help:** SmartApp not displaying anything [link](/security-alarm-system/troubleshooting/discovery-smartapp-error) 
 
 - **Help:** SmartThings not discovering the device [link](/security-alarm-system/troubleshooting/discovery-cant-find-device) 
+
+
+##### **Next Step:** [Assign Pins and Create Devices](/security-alarm-system/setup/assign-pins)
+

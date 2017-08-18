@@ -14,6 +14,7 @@ title: Konnected Security alarm systems installation guide
 1. [Enable SmartThings GitHub Integration](/security-alarm-system/installation/github-integration)
 1. [Install the SmartApp](/security-alarm-system/installation/smartapp)
 1. [Install Device Handlers](/security-alarm-system/installation/device-handlers)
+1. [Mounting & Positioning](/security-alarm-system/installation/mounting-positioning)
 
 ## Setup
 
