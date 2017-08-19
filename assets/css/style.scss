@@ -131,4 +131,16 @@ aside#sidebar hr {
 .amz, #disqus_thread {
   margin-top: 50px;
 }
+
+.promo-callout {
+  background: #fff;
+  padding: 2em;
+  border: 2px solid #eee;
+  border-radius: 12px;
+}
+
+#main-content .promo-callout h3:before,
+#main-content .promo-callout h4:before {
+  content: none;
+}
 // #71BA51 , #6C8784 , #2C82C9
