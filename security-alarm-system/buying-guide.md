@@ -280,7 +280,7 @@ prefer the _LoLin NodeMCU V3_ boards because of their development base that make
   amzn_assoc_marketplace = "amazon";
   amzn_assoc_region = "US";
   amzn_assoc_linkid = "cdb12ebb0ec74c951d75ad608d772f01";    
-  amzn_assoc_title = "LoLin NodeMCU v3";
+  amzn_assoc_title = "Our recommendations on Amazon";
   amzn_assoc_asins = "B01KC7QG4O,B071YPS666,B0738XJZHT,B01MQXLNPV,B01N8UUE3L";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
@@ -298,11 +298,27 @@ The base for the _LoLin NodeMCU_ board makes wiring easier and more secure and h
   amzn_assoc_marketplace = "amazon";
   amzn_assoc_region = "US";
   amzn_assoc_linkid = "cdb12ebb0ec74c951d75ad608d772f01";    
-  amzn_assoc_title = "LoLin NodeMCU base";
+  amzn_assoc_title = "Our recommendations on Amazon";
   amzn_assoc_asins = "B06XHGYPLY,B016W46I9E,B073S5ZN7Q,B0716C8DPR";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ### Jumper wires
+<script>
+  amzn_assoc_placement = "adunit2";
+  amzn_assoc_search_bar = "false";
+  amzn_assoc_tracking_id = "konnected-io-20";
+  amzn_assoc_ad_mode = "manual";
+  amzn_assoc_random_permute = "false";
+  amzn_assoc_ad_type = "smart";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_linkid = "cdb12ebb0ec74c951d75ad608d772f01";    
+  amzn_assoc_title = "Our recommendations on Amazon";
+  amzn_assoc_asins = "B01EV70C78,B01M1IEUAF,B072L1XMJR,B01IB7UOFE";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
 
 ### Relay modules
