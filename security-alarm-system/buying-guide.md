@@ -303,6 +303,29 @@ The base for the _LoLin NodeMCU_ board makes wiring easier and more secure and h
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
+### Relay modules
+A relay module is used to switch a higher voltage device with a signal from the Konnected board, for example to switch
+on a siren, strobe light, lamp, sprinkler valve, or anything else. The NodeMCU device operates at 3.3V, so any 3V relay
+module will work. If you're using the _LoLin NodeMCU base_ and powering the device via the base, you also have access to
+5V power which can be used to power some compatible 5V relay modules. We have tested and can recommend any of the following
+relay modules:
+
+<script>
+  amzn_assoc_placement = "adunit3";
+  amzn_assoc_search_bar = "false";
+  amzn_assoc_tracking_id = "konnected-io-20";
+  amzn_assoc_ad_mode = "manual";
+  amzn_assoc_random_permute = "false";
+  amzn_assoc_ad_type = "smart";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_linkid = "cdb12ebb0ec74c951d75ad608d772f01";    
+  amzn_assoc_title = "Our recommendations on Amazon";
+  amzn_assoc_asins = "B01M0E6SQM,B00XAGT052,B01FK11HV4,B00XAGT2OG,B00XAGT50C";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+   
+
 ### Jumper wires
 <script>
   amzn_assoc_placement = "adunit2";
@@ -321,4 +344,4 @@ The base for the _LoLin NodeMCU_ board makes wiring easier and more secure and h
 
 
 
-### Relay modules
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c445d107-3db5-422c-b154-b27a219f6c98"></script>
