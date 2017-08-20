@@ -8,7 +8,7 @@ comments: true
 ### Can I use Konnected to integrate my alarm system with SmartThings _and_ still keep my existing alarm panel?
 
 **Yes, but we don't think it's a good idea.** Konnected is designed to be a complete _replacement_ of your alarm system
- or an _alternative_ to a traditional alarm panel. Here's don't recommend using Konnected together with traditional system:
+ or an _alternative_ to a traditional alarm panel. Here's why we don't recommend using Konnected together with traditional system:
 
 1. It's more expensive and more complicated. You'll need to purchase a compatible _relay board_ for your brand of alarm
 panel. See below.
