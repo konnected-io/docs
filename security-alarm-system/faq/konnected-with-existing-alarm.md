@@ -7,12 +7,15 @@ comments: true
 
 ### Can I use Konnected to integrate my alarm system with SmartThings _and_ still keep my existing alarm panel?
 
-**Yes, but we don't recommend it.** Here's why:
+**Yes, but we don't think it's a good idea.** Konnected is designed to be a complete _replacement_ of your alarm system
+ or an _alternative_ to a traditional alarm panel. Here's don't recommend using Konnected together with traditional system:
 
 1. It's more expensive and more complicated. You'll need to purchase a compatible _relay board_ for your brand of alarm
 panel. See below.
 
-1. SmartThings will _not_ be able to arm or disarm your existing alarm system.
+1. SmartThings will _not_ be able to arm or disarm your existing alarm system. If you want to do that, look into a product
+called [Envasalink EVL-4](https://www.amazon.com/Envisalink-EVL-4EZR-Security-Interface-Honeywell/dp/B016WQTJ4S/ref=as_li_ss_tl?ie=UTF8&qid=1503204963&sr=8-2&keywords=envisalink+evl-4&linkCode=ll1&tag=konnected-io-20&linkId=940604dde67e8187a5136a776d666c95)
+for DSC and Honewell / Ademco systems.
 
 1. You will be able to see the status of your doors, windows, motion sensors, etc in SmartThings and use them for 
 automations. If you also want to use Smart Home Monitor as an alarm system,
@@ -24,7 +27,7 @@ buy an additional wired siren for the Konnected board.
 1. Fewer zones. Most alarm panel systems have a limited number of zones available. With Konnected, there's theoretically
 no limit to the number of zones or sensors you can connect. 
 
-#### I understand all that, but I still want to keep my old alarm panel. How?
+#### I understand all that, but I still want to keep my old alarm panel and use Konnected. How?
 
 1. Purchase and install a relay module compatible with your alarm system that has enough relay outputs for the zones that
 you want to monitor in SmartThings.
