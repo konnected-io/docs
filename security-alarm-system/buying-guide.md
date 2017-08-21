@@ -341,7 +341,3 @@ relay modules:
   amzn_assoc_asins = "B01EV70C78,B01M1IEUAF,B072L1XMJR,B01IB7UOFE";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c445d107-3db5-422c-b154-b27a219f6c98"></script>

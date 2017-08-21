@@ -12,12 +12,16 @@ with Konnected Security, an inexpensive WiFi capable device with our open-source
 [buy from us](https://store.konnected.io/products/wired-alarm-system-complete-kit) or 
 [build yourself](/security-alarm-system/buying-guide).
  
-### Materials and Requirements
-1. A NodeMCU development board and base (one for every 6 sensors/zones)
+### Included In Your DIY Kit
+1. A _LoLin NodeMCU V3_ ESP8266-based development board and base (one for every 6 sensors/zones)
 1. A relay for triggering the siren, strobe or alarm (optional)
 1. Jumper wires for connecting to in-wall wiring
+
+### Additional Requirements
 1. A [SmartThings Hub](https://www.amazon.com/Samsung-SmartThings-Hub-2nd-Generation/dp/B010NZV0GE/ref=as_li_ss_tl?&linkCode=ll1&tag=konnected-io-20&linkId=cf246167345ebc042f799b5d0d9383ed)
 1. A stable WiFi internet connection
+1. A mounting solution [sold separately](https://store.konnected.io/products/konnected-security-mounting-kit) or see [mounting](/security-alarm-system/installation/mounting-positioning)
+1. A [power source](/security-alarm-system/wiring/power)
  
 [Support this project by buying one of our DIY Kits!](https://store.konnected.io/products/wired-alarm-system-complete-kit)
 The kits contain all the materials you need, and come pre-loaded with Konnected firmware and software. Just plug in and

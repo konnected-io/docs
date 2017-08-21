@@ -4,17 +4,18 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Konnected
----
+--- 
 
-**Konnected Security** is a simple and inexpensive way to connect wired alarm system door/window sensors and motion
- sensors to [SmartThings](https://www.smartthings.com) for use with [Smart Home Monitor](https://support.smartthings.com/hc/en-us/articles/205380154-Smart-Home-Monitor)
- or any other SmartThings apps. Use Konnected Alarm Panel to convert your old wired alarm system into a SmartThings
- smart alarm. Or, if you're building/renovating a home, save money on wireless sensors and alarm system installation by 
- pre-wiring your home with sensors and connecting them to SmartThings with Konnected Alarm Panel.
- 
- Konnected devices are based on open-source hardware and software. We [sell DIY kits](https://store.konnected.io) pre-loaded
-  with Konnected software. Just follow the wiring instructions on this website. You can also build your own Konnected alarm panel
-  with easily available components and the [Konnected Security open-source firmware](https://github.com/konnected-io/konnected-security).
-  See our [buying guide](/security-alarm-system/buying-guide) for complete information on what to buy.  
+## [How to Convert Your Wired Alarm System into a SmartThings Smart Home Security System with Konnected's DIY Kits](/security-alarm-system)
+Konnected Security is a DIY project that enables you to convert your wired alarm system into a SmartThings smart home
+security system. Replace your traditional alarm system panel with Konnected reusing the existing wired sensors in your
+home.
 
-### [Konnected Security documentation](/security-alarm-system)
+<br/>
+### Find us on Facebook
+
+Share your Konnected setup photos, installation tips, and integrations with other Konnected users in our new [Konnected
+Users Group on Facebook](https://www.facebook.com/groups/476247262742640/?source_id=1968428086770654) and like our page
+below!
+
+<div class="fb-page" data-href="https://www.facebook.com/konnected-io/" data-tabs="timeline,reviews,groups" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/konnected-io/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/konnected-io/">konnected.io</a></blockquote></div>

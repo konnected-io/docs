@@ -22,6 +22,14 @@
 </head>
 
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=341938729194248";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <header>
     <div class="inner">
         <h1>
@@ -75,7 +83,6 @@
                     amzn_assoc_asins = "{{ page.amazon_assoc_asins | default: site.amazon_assoc_asins }}";
                 </script>
                 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-                <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c445d107-3db5-422c-b154-b27a219f6c98"></script>
             </div>
             {% endif %}
         </section>
@@ -121,7 +128,7 @@
         </aside>
     </div>
 </div>
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c445d107-3db5-422c-b154-b27a219f6c98"></script>
 {% if site.google_analytics %}
 <script type="text/javascript">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
