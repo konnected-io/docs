@@ -12,6 +12,7 @@ gem 'jekyll-theme-architect'
 gem 'jekyll'
 gem 'kramdown'
 gem 'rack-jekyll'
+gem 'rack-ssl'
 gem 'rake'
 gem 'puma'
 
