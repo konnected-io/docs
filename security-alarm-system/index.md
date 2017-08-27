@@ -43,4 +43,5 @@ breadcrumb: Konnected Security alarm system install guide
 ## Usage, Addons and Other Information
 
 1. [DIY Shopping & Buying Guide](/security-alarm-system/buying-guide)
+1. [Upgrading Software & Firmware](/security-alarm-system/upgrading)
 1. [Blue LED status indicator](/security-alarm-system/setup/device-modes)
