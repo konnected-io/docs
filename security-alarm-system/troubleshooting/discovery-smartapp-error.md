@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Troubleshooting | SmartThings App has error
+title: Troubleshooting | Error Loading the Konnected SmartApp
 comments: true
+breadcrumb: Konnected SmartApp Error
 ---
 
 If the SmartThings app is showing blank screen like this:

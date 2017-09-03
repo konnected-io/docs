@@ -39,11 +39,11 @@ SmartThings and tap _Done_.
     
 1. Now tap _Next_ to begin the device setup
 
-### **Troubleshooting:** 
+## Troubleshooting 
 
-- **Help:** SmartApp not displaying anything [link](/security-alarm-system/troubleshooting/discovery-smartapp-error) 
-
-- **Help:** SmartThings not discovering the device [link](/security-alarm-system/troubleshooting/discovery-cant-find-device) 
+1. [My Apps Does not Appear in _Add a SmartApp_](/security-alarm-system/troubleshooting/my-apps)
+1. [The Konnected SmartApp is not displaying anything](/security-alarm-system/troubleshooting/discovery-smartapp-error) 
+1. [SmartThings is not discovering the device](/security-alarm-system/troubleshooting/discovery-cant-find-device) 
 
 
 ##### **Next Step:** [Assign Pins and Create Devices](/security-alarm-system/setup/assign-pins)
