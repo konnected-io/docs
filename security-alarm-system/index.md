@@ -8,10 +8,6 @@ breadcrumb: Konnected Security alarm system install guide
 
 ![](/assets/images/konnected-alarm-panel.jpg){:width="70%"}
 
-## Frequently Asked Questions
-
-1. [Can I use Konnected to integrate my alarm system with SmartThings _and_ still keep my existing alarm panel?](/security-alarm-system/faq/konnected-with-existing-alarm)
-
 ## Installation
 
 1. [Getting Started](/security-alarm-system/installation/getting-started)
@@ -35,6 +31,11 @@ breadcrumb: Konnected Security alarm system install guide
 1. [Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
 1. [Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)
 1. [Power](/security-alarm-system/wiring/power)
+
+## Frequently Asked Questions
+
+1. [Can I use Konnected to integrate my alarm system with SmartThings _and_ still keep my existing alarm panel?](/security-alarm-system/faq/konnected-with-existing-alarm)
+1. [My alarm system has wireless sensors. Will it work with Konnected?](/security-alarm-system/faq/wireless-sensors)
 
 ## Troubleshooting
 
