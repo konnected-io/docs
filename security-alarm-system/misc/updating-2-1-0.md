@@ -59,5 +59,6 @@ A bug in the OTA update code requires you to force an update:
   
 ### Updating from any other version
 
-After ensuring your firmware is up to date, you can do an OTA update normally by tapping the _Check for Update_ button
-on the device status page in the app.
+After ensuring your firmware is up to date, you can do an OTA update by tapping the _Check for Update_ button
+on the device status page in the app. After the update completes, **you will have to update a second time to fully apply
+the update**. Go back to the device status page and **tap _Check for Update_ again**.
