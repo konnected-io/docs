@@ -30,6 +30,7 @@ breadcrumb: Konnected Security alarm system install guide
 1. [Motion Sensors](/security-alarm-system/wiring/motion-sensors)
 1. [Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
 1. [Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)
+1. [**New:** Door Chime](/security-alarm-system/wiring/door-chime)
 1. [Power](/security-alarm-system/wiring/power)
 
 ## Frequently Asked Questions
