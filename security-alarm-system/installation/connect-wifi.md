@@ -28,7 +28,7 @@ connect to WiFi. Until WiFi is configured, the device will broadcast its own WiF
     ![](/assets/images/Screenshot_20170710-225643.png){:class="img-callout"}
 
 1. Select your wireless network from the drop-down menu and enter your WiFi password. After tapping Save, the device
- will connect to your home WiFi network and the LED will stop blinking and be **solid blue**.
+ will connect to your home WiFi network and the LED will stop blinking and be **solid blue** or **turn off**.
 
     _Note:_ The wireless network must be on the same LAN/subnet as your SmartThings hub.
     

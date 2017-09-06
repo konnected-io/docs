@@ -3,7 +3,7 @@ title: Konnected Door Chime
 layout: default
 breadcrumb: Door Chime
 amazon_ads: true
-amazon_assoc_asins: B01ARBOT9Y,B00004YUJU,B0116XO8ZC,B00CSW3O5G
+amazon_assoc_asins: B01ARBOT9Y,B00004YUJU,B0116XO8ZC,B00UX04BUC,B00CSW3O5G
 comments: true
 ---
 
@@ -16,15 +16,257 @@ for up to 2 free piezo sounders, just pay $4 shipping.
 If you want more than just a "beep" sound, Konnected can be used to switch nearly any electronic device. 12V doorbells
 work nicely because we already have a 12v power source.
 
-## Wiring the Piezo Buzzer
+## Wiring a Piezo Buzzer
+
+<div id='product-component-776adc012da' class="img-product"></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'nodemcu-smartthings.myshopify.com',
+      apiKey: '4bc842c0bbb3a6f9954598757a95f5b2',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: [11540209684],
+        node: document.getElementById('product-component-776adc012da'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "variantId": "all",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "text-align": "left",
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
+      },
+      "compareAt": {
+        "font-size": "12px",
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
+      },
+      "compareAt": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#2c82c9",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "count": {
+        "font-size": "14px"
+      }
+    }
+  },
+  "option": {
+    "styles": {
+      "label": {
+        "font-family": "Open Sans, sans-serif"
+      },
+      "select": {
+        "font-family": "Open Sans, sans-serif"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
 
 The piezo buzzer that comes with your Konnected kit can be wired directly to the Konnected NodeMCU board with two female-to-female
 jumper wires. One of sides of the piezo buzzer will have a `+` marking on it. Then, connect a jumper to the pin directly 
 beneath that marking, and connect the other end to any [output pin](#output-pins) on the Konnected board. Connect a wire
 from the other pin to `GND`.
 
-<a class="img-product" href="https://www.amazon.com/Uxcell-a15112300ux1631-Electronic-Electromagnetic-Continuous/dp/B01ARBOT9Y/ref=as_li_ss_il?ie=UTF8&qid=1504675144&sr=8-1&keywords=3v+piezo+buzzer&linkCode=li1&tag=konnected-io-20&linkId=0329bb8e3123c744ef3b92f0b1aa13d2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ARBOT9Y&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=konnected-io-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=konnected-io-20&l=li1&o=1&a=B01ARBOT9Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-[Uxcell a15112300ux1631 30 Piece DC 3V Electronic Electromagnetic Continuous Sound Buzzer, 12 x 9.5 mm](https://www.amazon.com/Uxcell-a15112300ux1631-Electronic-Electromagnetic-Continuous/dp/B01ARBOT9Y/ref=as_li_ss_tl?ie=UTF8&qid=1504675144&sr=8-1&keywords=3v+piezo+buzzer&linkCode=ll1&tag=konnected-io-20&linkId=729380b1282e7090405058b4db390f44)
+**Sound Sample**
+
+Click play below to hear what it sounds like:
+
+<audio controls>
+   <source src="https://s3.us-east-2.amazonaws.com/konnected-io/beep.mp3" type="audio/mpeg" />
+</audio>
+
+The number of beeps, beep duration, and pause duration between beeps are all customizable.
+
 <br style="clear:both;"/>
 
 You can re-use the wiring in your keypad to mount the piezo sounder on the wall in your home where the keypad used to be.
@@ -32,5 +274,264 @@ Most alarm system keypads have four wires running to them. Remove the keypad its
 The red and black wires will carry power from the alarm panel, so make sure you disconnect the other end from the alarm
 panel. Now you can re-use this pair of wires to wire the buzzer to the outside of the wall, and mount it with a face plate:
 
-<a class="img-product" href="https://www.amazon.com/Leviton-88013-Telephone-Wallplate-Thermoset/dp/B00004YUJU/ref=as_li_ss_il?s=hi&ie=UTF8&qid=1504675482&sr=1-3-fkmr1&keywords=coaxial+cable+faceplate&linkCode=li1&tag=konnected-io-20&linkId=57475d38e8a1b937df2bd335c20a7a27" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00004YUJU&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=konnected-io-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=konnected-io-20&l=li1&o=1&a=B00004YUJU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-[Leviton 88013 1-Gang .406 Inch Hole Device Telephone/Cable Wallplate, Standard Size, Thermoset, Box Mount, White](https://www.amazon.com/Leviton-88013-Telephone-Wallplate-Thermoset/dp/B00004YUJU/ref=as_li_ss_tl?s=hi&ie=UTF8&qid=1504675482&sr=1-3-fkmr1&keywords=coaxial+cable+faceplate&linkCode=ll1&tag=konnected-io-20&linkId=964d93e711b7d938fbf2013c14866ded)
+
+## Using a Wired Doorbell as a Door Chime
+
+<div id='product-component-66bd6b9a99b' class="img-product"></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'nodemcu-smartthings.myshopify.com',
+      apiKey: '4bc842c0bbb3a6f9954598757a95f5b2',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: [11542700948],
+        node: document.getElementById('product-component-66bd6b9a99b'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "variantId": "all",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "text-align": "left",
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
+      },
+      "compareAt": {
+        "font-size": "12px",
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#2c82c9",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
+      },
+      "compareAt": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#2c82c9",
+        ":hover": {
+          "background-color": "#2875b5"
+        },
+        ":focus": {
+          "background-color": "#2875b5"
+        }
+      },
+      "count": {
+        "font-size": "14px"
+      }
+    }
+  },
+  "option": {
+    "styles": {
+      "label": {
+        "font-family": "Open Sans, sans-serif"
+      },
+      "select": {
+        "font-family": "Open Sans, sans-serif"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+
+For a more pleasant sounding door chime, a wired 12V doorbell can be used with Konnected. You can mount the doorbell
+where your keypad is mounted and re-use the wiring from your keypad!
+
+**Sound Sample**
+
+Click play below to hear what the doorbell sounds like
+
+<audio controls>
+   <source src="https://s3.us-east-2.amazonaws.com/konnected-io/doorbell.mp3" type="audio/mpeg" />
+</audio>
+
+<br style="clear:both;"/>
+
+### Wiring Instructions
+
+Wiring the door chime is easy. Remove you alarm system keypad from the wall. The red and black wires will carry 12V power
+from the alarm panel aux out. Connect these two wires to the red and black wires on the back of the doorbell. Now, connect
+the green wire from the wall to the green wire on the doorbell. The yellow wire is not used.
+
+Back at your alarm panel, remove the green wire that's leading to the keypad from your alarm panel keypad terminal, and
+connect it using a jumper to any available output pin on the Konnected board. Set up this pin as a _Momentary Switch_ in
+the app.
+
+##### **Next Step:** [Power](/security-alarm-system/wiring/power)

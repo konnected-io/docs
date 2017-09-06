@@ -42,7 +42,7 @@ _Publish_ checkbox and then click _Execute Update_.
 
 1. Go to _My SmartApps_ and click _New SmartApp_.
 1. Click on the _From Code_ tab on the _New SmartApp_ screen.
-1. Click here for the [SmartApp source code](https://raw.githubusercontent.com/konnected-io/konnected-security/stable/smartapps/konnected-io/konnected-security-connect.src/konnected-security-connect.groovy){:target="_blank"}.
+1. Click here for the [SmartApp source code](https://raw.githubusercontent.com/konnected-io/konnected-security/stable/smartapps/konnected-io/konnected.src/konnected.groovy){:target="_blank"}.
 1. Copy and paste the SmartApp source code into the code editor and click _Create_.
 1. Follow the steps above to [enable OAuth](#enable-oauth).
 

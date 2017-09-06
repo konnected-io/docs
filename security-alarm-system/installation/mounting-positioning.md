@@ -40,4 +40,6 @@ can easily then be mounted anywhere using double-sided mounting tape or mounting
 
 1. Remove the protective film on both sides of the acrylic sheet
 
-1. Position the components on the board, secure with screws, and hand-tighten nuts on the opposite side. 
+1. Position the components on the board, secure with screws, and hand-tighten nuts on the opposite side.
+
+##### **Next Step:** [Device Discovery](/security-alarm-system/setup/discovery) 

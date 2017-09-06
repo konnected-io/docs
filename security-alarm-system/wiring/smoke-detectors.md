@@ -66,4 +66,4 @@ The following input pins on the Konnected device can be used for smoke detectors
 * `D7`
 * `RX`
 
-##### **Next Step:** [Power](/security-alarm-system/wiring/power)
+##### **Next Step:** [Door Chime](/security-alarm-system/wiring/door-chime)
