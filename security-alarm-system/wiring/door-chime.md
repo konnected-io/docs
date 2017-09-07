@@ -3,7 +3,7 @@ title: Konnected Door Chime
 layout: default
 breadcrumb: Door Chime
 amazon_ads: true
-amazon_assoc_asins: B01ARBOT9Y,B00004YUJU,B0116XO8ZC,B00UX04BUC,B00CSW3O5G
+amazon_assoc_asins: B01ARBOT9Y,B00004YUJU,B0116XO8ZC,B00UX04BUC,B00CSW3O5G,B00FR4YQYK
 comments: true
 ---
 
@@ -16,7 +16,7 @@ for up to 2 free piezo sounders, just pay $4 shipping.
 If you want more than just a "beep" sound, Konnected can be used to switch nearly any electronic device. 12V doorbells
 work nicely because we already have a 12v power source.
 
-## Wiring a Piezo Buzzer
+## Wiring a Piezo Buzzer/Sounder
 
 <div id='product-component-776adc012da' class="img-product"></div>
 <script type="text/javascript">
@@ -253,7 +253,7 @@ work nicely because we already have a 12v power source.
 </script>
 
 The piezo buzzer that comes with your Konnected kit can be wired directly to the Konnected NodeMCU board with two female-to-female
-jumper wires. One of sides of the piezo buzzer will have a `+` marking on it. Then, connect a jumper to the pin directly 
+jumper wires. One of sides of the piezo buzzer will have a `+` marking on it. Connect a jumper to the pin directly 
 beneath that marking, and connect the other end to any [output pin](#output-pins) on the Konnected board. Connect a wire
 from the other pin to `GND`.
 
@@ -524,8 +524,6 @@ Click play below to hear what the doorbell sounds like
 
 <br style="clear:both;"/>
 
-### Wiring Instructions
-
 Wiring the door chime is easy. Remove you alarm system keypad from the wall. The red and black wires will carry 12V power
 from the alarm panel aux out. Connect these two wires to the red and black wires on the back of the doorbell. Now, connect
 the green wire from the wall to the green wire on the doorbell. The yellow wire is not used.
@@ -533,5 +531,16 @@ the green wire from the wall to the green wire on the doorbell. The yellow wire 
 Back at your alarm panel, remove the green wire that's leading to the keypad from your alarm panel keypad terminal, and
 connect it using a jumper to any available output pin on the Konnected board. Set up this pin as a _Momentary Switch_ in
 the app.
+
+## Hacking a Wireless Doorbell for 50+ Sounds and Musical Tones
+
+One creative Konnected user **[@vseven](https://community.smartthings.com/t/replaced-my-existing-security-panel-with-konnected-security-my-writeup/95656)**
+figured out how to hack a $18 wireless doorbell with Konnected and a relay module. This gives you 50 different sounds or
+chimes and adjustable volume! Read his 
+[detailed Konnected writeup with a Wireless Doorbell on the SmartThings Community](https://community.smartthings.com/t/replaced-my-existing-security-panel-with-konnected-security-my-writeup/95656)
+
+<a class="img-product" href="https://www.amazon.com/SadoTech-Wireless-Doorbell-Operating-Batteries/dp/B00FR4YQYK/ref=as_li_ss_il?ie=UTF8&linkCode=li1&tag=konnected-io-20&linkId=4c770739253ba248928d198468b01657" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FR4YQYK&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=konnected-io-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=konnected-io-20&l=li1&o=1&a=B00FR4YQYK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+[SadoTech Model C Wireless Doorbell Operating at over 500-feet Range with Over 50 Chimes, No Batteries Required for Receiver, (White), Fixed Code C Series](https://www.amazon.com/SadoTech-Wireless-Doorbell-Operating-Batteries/dp/B00FR4YQYK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=konnected-io-20&linkId=7b900c3ac0ecc019025641e087c36884)
+<br style="clear:both;"/>
 
 ##### **Next Step:** [Power](/security-alarm-system/wiring/power)
