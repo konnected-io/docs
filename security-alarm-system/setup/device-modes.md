@@ -21,7 +21,7 @@ Once connected, the device will stop blinking
 
 ## Communicating with SmartThings
 
-When sensors are triggered, Konnected Security will send it's state to SmartThings in the cloud. The device will blink quickly indicating that there's transmitting data to SmartThings.
+When sensors are triggered, Konnected will send it's state to SmartThings in the cloud. The device will blink quickly indicating that there's transmitting data to SmartThings.
 
 ![](/assets/images/nodemcu_base_communicating.gif){:class="img-callout"}
 

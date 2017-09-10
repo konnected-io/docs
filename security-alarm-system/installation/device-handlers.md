@@ -7,13 +7,17 @@ breadcrumb: Install Device Handlers
 
 # Install the Device Handlers
 
-_Konnected Security_ comes with several device handlers that support the capabilities of the various devices:
+_Konnected_ comes with several device handlers that support the capabilities of the various things you can attach
+to a Konnected board:
 
 1. Contact Sensor
 2. Motion Sensor
 3. Siren/Strobe (Alarm)
 4. Smoke Detector
 5. Panic Button
+6. Switch
+7. Momentary Switch
+8. Beep/Blink Switch
 
 You only need to install the device handlers that you plan on using, but it doesn't hurt to install them all anyway.
 

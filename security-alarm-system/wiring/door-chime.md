@@ -16,6 +16,12 @@ for up to 2 free piezo sounders, just pay $4 shipping.
 If you want more than just a "beep" sound, Konnected can be used to switch nearly any electronic device. 12V doorbells
 work nicely because we already have a 12v power source.
 
+## Configuring the Door Chime in SmartThings
+
+It's easy to set up a door open notification in SmartThings using the [Smart Lighting](https://support.smartthings.com/hc/en-us/articles/205380404-Smart-Lights)
+app. The Konnected switch and beep devices will be available as lights/switches for any automations. Create a new _Smart Lighting_ automation that "turns on"
+the switch or beep device when your desired doors are open. 
+
 ## Wiring a Piezo Buzzer/Sounder
 
 <div id='product-component-776adc012da' class="img-product"></div>
@@ -542,5 +548,19 @@ chimes and adjustable volume! Read his
 <a class="img-product" href="https://www.amazon.com/SadoTech-Wireless-Doorbell-Operating-Batteries/dp/B00FR4YQYK/ref=as_li_ss_il?ie=UTF8&linkCode=li1&tag=konnected-io-20&linkId=4c770739253ba248928d198468b01657" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FR4YQYK&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=konnected-io-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=konnected-io-20&l=li1&o=1&a=B00FR4YQYK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 [SadoTech Model C Wireless Doorbell Operating at over 500-feet Range with Over 50 Chimes, No Batteries Required for Receiver, (White), Fixed Code C Series](https://www.amazon.com/SadoTech-Wireless-Doorbell-Operating-Batteries/dp/B00FR4YQYK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=konnected-io-20&linkId=7b900c3ac0ecc019025641e087c36884)
 <br style="clear:both;"/>
+
+## Output Pins
+
+Any of the following pins can be used for a relay, doorbell or piezo buzzer:
+
+* `D1`
+* `D2`
+* `D5`
+* `D6`
+* `D7`
+* `D8` - High level trigger devices only. Don't use with low level trigger relays.
+
+For most applications it's recommended to use pin `D8` for output because it cannot be used as an input.
+
 
 ##### **Next Step:** [Power](/security-alarm-system/wiring/power)

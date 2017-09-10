@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Konnected Security alarm system install guide
-breadcrumb: Konnected Security alarm system install guide
+title: Konnected security alarm system install guide
+breadcrumb: Konnected security alarm system install guide
 ---
 
-# Konnected Security Install Guide
+# Alarm System Install Guide
 
 ![](/assets/images/konnected-alarm-panel.jpg){:width="70%"}
 

@@ -17,7 +17,7 @@ board outside of the alarm panel enclosure.
 ### Checking Wifi Signal
 
 To check the Wifi signal strength, open the SmartThings app and go to _Automation_ -> _SmartApps_ -> 
-_Konnected Security (Connect)_ -> scroll down and _Tap to view device status_ -> scroll down to view the _Wifi signal 
+_Konnected_ -> scroll down and _Tap to view device status_ -> scroll down to view the _Wifi signal 
 strength_. You should have at least 50% wifi signal strength for reliable function.
 
 

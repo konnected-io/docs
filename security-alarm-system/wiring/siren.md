@@ -10,7 +10,7 @@ comments: true
 # Wiring a Siren, Strobe or Sounder
 
 Most wired alarm system installations have a an audible siren that activates in the home when an intrusion is detected.
-You can connect your wired siren to the Konnected Security device using the [relay included in our kit](https://store.konnected.io/products/wired-alarm-system-complete-kit)
+You can connect your wired siren to the Konnected device using the [relay included in our kit](https://store.konnected.io/products/wired-alarm-system-complete-kit)
 or with a relay purchased separately (see our [buying guide](/security-alarm-system/buying-guide) for suggestions).
  
 A _relay switch_ is a device that's used to switch on/off a higher-voltage device with a signal from a lower-voltage device.

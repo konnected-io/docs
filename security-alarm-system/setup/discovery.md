@@ -7,7 +7,7 @@ comments: true
 
 # Device Discovery
 
-Now that your device is connected to WiFi and you've installed the Konnected Security SmartApp and Device Handlers, open
+Now that your device is connected to WiFi and you've installed the Konnected SmartApp and Device Handlers, open
 the SmartThings mobile app on your phone to discover the device. Note that your SmartThings Hub must be connected to the
 same internal network as the Konnected device.
 
@@ -23,7 +23,7 @@ same internal network as the Konnected device.
 
     ![](/assets/images/mobileapp-add-smartapp.png){:class="img-callout"}
 
-1. Tap _Konnected Security_
+1. Tap _Konnected_
 
 1. On the welcome screen, tap _Next_. 
 

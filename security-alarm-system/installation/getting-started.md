@@ -5,7 +5,7 @@ comments: true
 breadcrumb: Getting Started
 ---
 
-## Getting Started with Konnected Security
+## Getting Started with Konnected
 
 This guide will walk you step-by-step through connecting your new or existing home security system wiring to SmartThings
 with Konnected Security, an inexpensive WiFi capable device with our open-source software that you can 

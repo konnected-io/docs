@@ -6,7 +6,7 @@ amazon_ads: true
 
 # Show Your Support
 
-**Konnected Security** is an open source project. We're proud to give back to the community and share this solution for
+**Konnected** is an open source project. We're proud to give back to the community and share this solution for
 everyone to use freely. Konnected was created by two dads who care deeply about technology, automation and the
 safety and security of their families. We've worked extremely hard to create an easy-to-use solution that's accessible
 to everyone. If Konnected has made your home more secure, saved you money, or given you more peace of mind, please 

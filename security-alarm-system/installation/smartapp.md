@@ -7,7 +7,7 @@ breadcrumb: Install the SmartApp
 
 # Install the SmartApp
 
-The _Konnected Security_ SmartApp can be installed using the GitHub integration or manually.
+The _Konnected_ SmartApp can be installed using the GitHub integration or manually.
 
 ## Install the SmartApp with GitHub
 
@@ -24,7 +24,7 @@ _Publish_ checkbox and then click _Execute Update_.
    
 ## Enable OAuth
 
-1. You'll now see _Konnected Security (Connect)_ in your list of _My SmartApps_. Click the _Edit_ icon next to this SmartApp.
+1. You'll now see _Konnected_ in your list of _My SmartApps_. Click the _Edit_ icon next to this SmartApp.
 
    ![](/assets/images/SmartApps-edit.png)
    

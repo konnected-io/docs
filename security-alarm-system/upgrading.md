@@ -11,7 +11,7 @@ breadcrumb: Upgrading Software & Firmware
 
 Most new features and bug fixes can be updated to your Konnected device automatically over Wifi. To initiate an update:
 
-1. In the SmartThings mobile app, go to _Automation_ -> _SmartApps_ -> _Konnected Security (Connect)_
+1. In the SmartThings mobile app, go to _Automation_ -> _SmartApps_ -> _Konnected_
 1. Scroll down and find the device you want to update and _Tap to view device status_
 1. Scroll down and check the _Wifi Signal Strength_. To reduce the risk of update failures, we recommend a signal
 strength of 70% or higher
