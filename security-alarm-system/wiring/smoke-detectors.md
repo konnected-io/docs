@@ -7,7 +7,7 @@ amazon_assoc_asins:
 comments: true
 ---
 
-# Smoke Detectors
+# Smoke & CO Detectors
 
 Many interconnected type _wired_ smoke detectors (the kind when one alarms they all alarm) are compatible with Konnected
 if you have the right type of wiring and relay.
@@ -28,6 +28,11 @@ there's probably a relay already installed. If not, there are links below to rel
 Once you've identified the smoke detector signal wires, connect the two leads of the relay to the Konnected device 
 [input pins](#input-pins) just like any other sensor. If your relay has both normally closed (NC) and normally open (NO)
 wires, uses the NC one.
+
+### System Sensor (4-wire models)
+
+These don't need any additional equipment, they just work! Connect the yellow/green pair to an input pin and `GND` just 
+like any of the other sensors.
 
 ### First Alert
 

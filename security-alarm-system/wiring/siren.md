@@ -32,8 +32,9 @@ or in a [5-pack](https://www.amazon.com/3V-Relay-Module-Optocoupler-Development/
 
 #### 5V High/Low Level Trigger Relay Module
 We've tested these 5V relay modules and started including them in kits shipped in mid August 2017 and later. **These relays
-require 5V power from the NodeMCU base**. They're smaller, lighter, and have a configurable high or low level trigger. 
-For this application, keep the jumper setting on for high level trigger. These are
+require 5V power from the NodeMCU base**, so you must power the device at the base (not by USB) for the relay to work.
+
+For this application, keep the jumper setting on for high level trigger (it's shipped in this configuration). These are
 also [available on Amazon in a 5-pack](https://www.amazon.com/gp/product/B00XAGT052/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=konnected-io-20&linkId=edde017f27ebdaa43cf06dfaee293823).
 ![](/assets/images/5v-relay-hi-low.jpg) 
 
@@ -113,5 +114,10 @@ The following pins on the Konnected device can be used for outputs:
 * `D6`
 * `D7`
 * `D8` - High level trigger relay modules only 
+
+## Troubleshooting 
+
+1. [Siren makes a static or crackling sound](/security-alarm-system/troubleshooting/siren-static)
+
 
 ##### **Next Step:** [Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)

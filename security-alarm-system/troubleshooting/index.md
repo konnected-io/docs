@@ -12,3 +12,6 @@ comments: true
     * [SmartThings is not discovering the device](/security-alarm-system/troubleshooting/discovery-cant-find-device) 
 
 1. [Viewing Debug Output from the Device](/security-alarm-system/troubleshooting/serial-debugging)
+ 
+
+1. [Siren makes a static or crackling sound](/security-alarm-system/troubleshooting/siren-static)

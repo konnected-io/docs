@@ -53,7 +53,7 @@ You'll be wiring the sensors directly to the Konnected device. Use a 12V DC powe
 1. [Wiring Door & Window Sensors](/security-alarm-system/wiring/contact-sensors)
 1. [Wiring Motion Sensors](/security-alarm-system/wiring/motion-sensors)
 1. [Wiring a Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
-1. [Wiring Smoke Detectors](/security-alarm-system/wiring/smoke-detectors)
+1. [Wiring Smoke & CO Detectors](/security-alarm-system/wiring/smoke-detectors)
 1. [**New:** Door Chime](/security-alarm-system/wiring/door-chime)
 1. [Power](/security-alarm-system/wiring/power)
 
