@@ -50,3 +50,4 @@ breadcrumb: Konnected security alarm system install guide
 1. [Resetting or Reconnecting to Wifi Network](/security-alarm-system/misc/resetting-wifi)
 1. [Upgrading Software & Firmware](/security-alarm-system/upgrading)
 1. [Blue LED status indicator](/security-alarm-system/setup/device-modes)
+1. [3D Printed Accessories](/security-alarm-system/misc/3d-printed-accessories)
