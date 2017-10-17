@@ -18,6 +18,17 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <!-- Facebook Open Graph markup -->
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ page.og_image }}" />
+    {% endif %}
+    {% if page.og_description %}
+    <meta property="og:description" content="{{ page.og_description }}" />
+    {% endif %}
+
     <!-- Facebook Pixel Code -->
     <script>
         !function(f,b,e,v,n,t,s)
