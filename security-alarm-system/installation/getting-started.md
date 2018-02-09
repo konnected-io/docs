@@ -9,7 +9,7 @@ breadcrumb: Getting Started
 
 This guide will walk you step-by-step through connecting your new or existing home security system wiring to SmartThings
 with Konnected Security, an inexpensive WiFi capable device with our open-source software that you can 
-[buy from us](https://store.konnected.io/products/wired-alarm-system-complete-kit) or 
+[buy from us](https://konnected.io/products/konnected-diy-prototyping-kit) or 
 [build yourself](/security-alarm-system/buying-guide).
  
 ### Included In Your DIY Kit
@@ -20,10 +20,10 @@ with Konnected Security, an inexpensive WiFi capable device with our open-source
 ### Additional Requirements
 1. A [SmartThings Hub](https://www.amazon.com/Samsung-SmartThings-Hub-2nd-Generation/dp/B010NZV0GE/ref=as_li_ss_tl?&linkCode=ll1&tag=konnected-io-20&linkId=cf246167345ebc042f799b5d0d9383ed)
 1. A stable WiFi internet connection
-1. A mounting solution [sold separately](https://store.konnected.io/products/konnected-security-mounting-kit) or see [mounting](/security-alarm-system/installation/mounting-positioning)
+1. A mounting solution. See: [mounting](/security-alarm-system/installation/mounting-positioning)
 1. A [power source](/security-alarm-system/wiring/power)
  
-[Support this project by buying one of our DIY Kits!](https://store.konnected.io/products/wired-alarm-system-complete-kit)
+[Support this project by buying one of our DIY Kits!](https://konnected.io/products/konnected-diy-prototyping-kit)
 The kits contain all the materials you need, and come pre-loaded with Konnected firmware and software. Just plug in and
 configure with your smartphone.
 
