@@ -9,6 +9,7 @@ source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem 'jekyll-theme-architect'
+gem 'jekyll-redirect-from'
 gem 'jekyll'
 gem 'kramdown'
 gem 'rack-jekyll'

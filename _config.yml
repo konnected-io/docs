@@ -24,7 +24,10 @@ github_username:  konnected-io
 amazon_assoc_asins: B06XSCSBPJ,B0738XJZHT,B010NZV0GE,B000EVYGZA,B06XHGYPLY,B00GF9T3I0,B016W46I9E,B01FSGGJLY,B01M0E6SQM,B00Q2E5IXW,B01N19IK8F,B06XSFCK55
 google_analytics: UA-101224545-2
 
-gems: ['kramdown']
+plugins:
+  - kramdown
+  - jekyll-redirect-from
+
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
 
 # Build settings

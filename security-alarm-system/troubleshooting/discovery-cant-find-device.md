@@ -3,6 +3,8 @@ layout: default
 title: Troubleshooting | Can't Discover the Konnected Device
 comments: true
 breadcrumbs: Can't Discover Device
+redirect_to: 
+  - https://help.konnected.io/support/solutions/articles/32000023644-device-discovery-troubleshooting
 ---
 
 If you are stuck on the screen with _Please wait while we discover your device_ and no devices are showing up,
