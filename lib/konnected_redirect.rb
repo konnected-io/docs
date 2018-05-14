@@ -15,7 +15,14 @@ module Rack
         "https://help.konnected.io/support/solutions/articles/32000022409-smartthings-enable-github-integration",
 
       '/security-alarm-system/installation/smartapp' =>
-        "https://help.konnected.io/support/solutions/articles/32000022410-smartthings-install-the-konnected-smartapps-with-github"
+        "https://help.konnected.io/support/solutions/articles/32000022410-smartthings-install-the-konnected-smartapps-with-github",
+
+      '/security-alarm-system/installation/getting-started' =>
+        "https://help.konnected.io/support/solutions/articles/32000022631-what-do-i-need-to-use-the-konnected-alarm-panel-",
+
+      '/security-alarm-system/installation/device-handlers' =>
+        "https://help.konnected.io/support/solutions/articles/32000022411-smartthings-install-the-device-handlers"
+
     }
 
     def initialize(app)
