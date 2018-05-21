@@ -21,7 +21,16 @@ module Rack
         "https://help.konnected.io/support/solutions/articles/32000022631-what-do-i-need-to-use-the-konnected-alarm-panel-",
 
       '/security-alarm-system/installation/device-handlers' =>
-        "https://help.konnected.io/support/solutions/articles/32000022411-smartthings-install-the-device-handlers"
+        "https://help.konnected.io/support/solutions/articles/32000022411-smartthings-install-the-device-handlers",
+
+      '/security-alarm-system/setup/discovery' =>
+        "https://help.konnected.io/support/solutions/articles/32000022624-smartthings-device-discovery",
+
+      '/security-alarm-system/troubleshooting/serial-debugging' =>
+        "https://help.konnected.io/support/solutions/articles/32000023766-device-debugging-with-esplorer",
+
+      '/security-alarm-system/faq/wpa2-wifi-krack-vulnerability' =>
+        "https://help.konnected.io/support/solutions/articles/32000022705-wifi-security-and-the-krack-exploit"
 
     }
 
