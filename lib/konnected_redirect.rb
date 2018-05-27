@@ -44,7 +44,8 @@ module Rack
 
     def call(env)
       req = Rack::Request.new(env)
-      return redirect(REDIRECTS[req.path]) if REDIRECTS.include?(req.path)
+      path_without_slash = req.path[-1] == '/' ? req.path[0..-2] : req.path
+      return redirect(REDIRECTS[req.path]) if REDIRECTS.include?(path_without_slash)
       @app.call(env)
     end
 
