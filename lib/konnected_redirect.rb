@@ -39,7 +39,10 @@ module Rack
         "https://help.konnected.io/support/solutions/articles/32000022626-smart-home-monitor",
 
       '/security-alarm-system/setup/assign-pins' =>
-        "https://help.konnected.io/support/solutions/articles/32000022625-smartthings-setting-up-sensors-and-devices"
+        "https://help.konnected.io/support/solutions/articles/32000022625-smartthings-setting-up-sensors-and-devices",
+
+      '/security-alarm-system/wiring/smoke-detectors' =>
+        "https://help.konnected.io/support/solutions/articles/32000022629-wiring-smoke-co-detectors"
 
     }
 
