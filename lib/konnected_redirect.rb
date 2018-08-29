@@ -30,7 +30,16 @@ module Rack
         "https://help.konnected.io/support/solutions/articles/32000023766-device-debugging-with-esplorer",
 
       '/security-alarm-system/faq/wpa2-wifi-krack-vulnerability' =>
-        "https://help.konnected.io/support/solutions/articles/32000022705-wifi-security-and-the-krack-exploit"
+        "https://help.konnected.io/support/solutions/articles/32000022705-wifi-security-and-the-krack-exploit",
+
+      '/security-alarm-system/wiring/connecting-jumpers' =>
+        "https://help.konnected.io/support/solutions/articles/32000024319-connecting-jumpers",
+
+      '/security-alarm-system/setup/smart-home-monitor' =>
+        "https://help.konnected.io/support/solutions/articles/32000022626-smart-home-monitor",
+
+      '/security-alarm-system/setup/assign-pins' =>
+        "https://help.konnected.io/support/solutions/articles/32000022625-smartthings-setting-up-sensors-and-devices"
 
     }
 

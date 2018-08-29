@@ -10,22 +10,22 @@ breadcrumb: Konnected security alarm system install guide
 
 ## Installation
 
-1. [Getting Started](/security-alarm-system/installation/getting-started)
-1. [Connect to WiFi](/security-alarm-system/installation/connect-wifi)
-1. [Enable SmartThings GitHub Integration](/security-alarm-system/installation/github-integration)
-1. [Install the SmartApp](/security-alarm-system/installation/smartapp)
-1. [Install Device Handlers](/security-alarm-system/installation/device-handlers)
+1. [Getting Started](https://help.konnected.io/support/solutions/articles/32000022631-what-do-i-need-to-use-the-konnected-alarm-panel-)
+1. [Connect to WiFi](https://help.konnected.io/support/solutions/articles/32000022408-connect-to-wifi)
+1. [Enable SmartThings GitHub Integration](https://help.konnected.io/support/solutions/articles/32000022409-smartthings-enable-github-integration)
+1. [Install the SmartApp](https://help.konnected.io/support/solutions/articles/32000022410-smartthings-install-the-konnected-smartapps-with-github)
+1. [Install Device Handlers](https://help.konnected.io/support/solutions/articles/32000022411-smartthings-install-the-device-handlers)
 1. [Mounting & Positioning](/security-alarm-system/installation/mounting-positioning)
 
 ## Setup
 
-1. [Add the Konnected Device to SmartThings](/security-alarm-system/setup/discovery)
-1. [Assign Device Pins to Things](/security-alarm-system/setup/assign-pins)
-1. [Set up Smart Home Monitor](/security-alarm-system/setup/smart-home-monitor)
+1. [Add the Konnected Device to SmartThings](https://help.konnected.io/support/solutions/articles/32000022624-smartthings-device-discovery)
+1. [Assign Device Pins to Things](https://help.konnected.io/support/solutions/articles/32000022625-smartthings-setting-up-sensors-and-devices)
+1. [Set up Smart Home Monitor](https://help.konnected.io/support/solutions/articles/32000022626-smart-home-monitor)
 
 ## Wiring
 
-1. [Connecting Jumper Wires to In-wall Wiring](/security-alarm-system/wiring/connecting-jumpers)
+1. [Connecting Jumper Wires to In-wall Wiring](https://help.konnected.io/support/solutions/articles/32000024319-connecting-jumpers)
 1. [Door & Window Sensors](/security-alarm-system/wiring/contact-sensors)
 1. [Motion Sensors](/security-alarm-system/wiring/motion-sensors)
 1. [Siren, Strobe or Alarm](/security-alarm-system/wiring/siren)
