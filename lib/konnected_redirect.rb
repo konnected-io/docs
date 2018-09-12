@@ -2,6 +2,9 @@ module Rack
   class KonnectedRedirect
 
     REDIRECTS = {
+      '/privacy' =>
+        "https://konnected.io/pages/privacy-policy",
+
       '/security-alarm-system/upgrading' =>
         "https://help.konnected.io/support/solutions/articles/32000023470-flashing-new-konnected-firmware-software",
 
@@ -43,7 +46,6 @@ module Rack
 
       '/security-alarm-system/wiring/smoke-detectors' =>
         "https://help.konnected.io/support/solutions/articles/32000022629-wiring-smoke-co-detectors"
-
     }
 
     def initialize(app)
